@@ -23,7 +23,7 @@ map()
 
 
 #delimit fledgling world
-map.axes(col= "yellow")
+map.axes(col= "red")
 
 #give a sense of scale
 map.scale(x=-10, y=-40, relwidth = 0.1, cex=0.4, col= "yellow")
