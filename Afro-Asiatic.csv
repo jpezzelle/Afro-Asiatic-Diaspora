@@ -1,0 +1,146 @@
+ascii_name,description,genus_pk,id,iso_codes,jsondata,latitude,longitude,macroarea,markup_description,name,pk,samples_100,samples_200
+aari,,2,aar,aiw,{},6.0,36.5833333333,Africa,,Aari,2,False,False
+alagwa,,36,agw,wbj,{},-5.5,35.75,Africa,,Alagwa,49,False,False
+amharic,,4,amh,amh,{},10.0,38.0,Africa,,Amharic,91,False,False
+angas,,67,anc,anc,{},9.5,9.5,Africa,,Angas,107,False,False
+arabic bahrain,,4,abh,abv,{},26.0,50.5,Eurasia,,Arabic (Bahrain),7,False,False
+arabic banihassan,,4,ahs,mey,{},20.0,-10.0,Africa,,Arabic (Bani-Hassan),51,False,False
+arabic beirut,,4,abe,apc,{},33.9166666667,35.5,Eurasia,,Arabic (Beirut),6,False,False
+arabic borno nigerian,,4,arn,shu,{},8.58333333333,12.4166666667,Africa,,Arabic (Borno Nigerian),142,False,False
+arabic chadian,,4,abb,shu,{},13.8333333333,20.8333333333,Africa,,Arabic (Chadian),4,False,False
+arabic eastern libyan,,4,ael,ayl,{},32.0,22.0,Africa,,Arabic (Eastern Libyan),36,False,False
+arabic egyptian,,4,aeg,arz,{},30.0,31.0,Africa,,Arabic (Egyptian),35,True,True
+arabic gulf,,4,arg,afb,{},26.0,49.0,Eurasia,,Arabic (Gulf),135,False,False
+arabic hijazi,,4,arh,acw,{},26.0,38.0,Eurasia,,Arabic (Hijazi),136,False,False
+arabic iraqi,,4,arq,acm,{},33.0,44.0,Eurasia,,Arabic (Iraqi),145,False,False
+arabic kormakiti,,4,ako,acy,{},35.25,33.5,Eurasia,,Arabic (Kormakiti),68,False,False
+arabic kuwaiti,,4,arj,afb,{},29.5,47.5,Eurasia,,Arabic (Kuwaiti),138,False,False
+arabic lebanese,,4,arl,apc,{},34.0,36.0,Eurasia,,Arabic (Lebanese),140,False,False
+arabic modern standard,,4,ams,arb,{},25.0,42.0,Eurasia,,Arabic (Modern Standard),101,False,False
+arabic moroccan,,4,amr,ary,{},34.0,-6.0,Africa,,Arabic (Moroccan),100,False,False
+arabic negev,,4,arv,ajp,{},30.5,34.75,Eurasia,,Arabic (Negev),148,False,False
+arabic north levantine spoken,,4,anl,apc,{},33.75,36.0,Eurasia,,Arabic (North Levantine Spoken),112,False,False
+arabic palestinian,,4,apa,ajp,{},32.0,35.25,Eurasia,,Arabic (Palestinian),121,False,False
+arabic sanani,,4,ars,ayn,{},16.0,44.0,Eurasia,,Arabic (San'ani),147,False,False
+arabic syrian,,4,asy,apc,{},34.0,38.0,Eurasia,,Arabic (Syrian),159,False,False
+arabic tunisian,,4,atu,aeb,{},36.75,10.25,Africa,,Arabic (Tunisian),169,False,False
+arbore,,10,abo,arv,{},5.0,36.75,Africa,,Arbore,12,False,False
+awngi,,95,awn,awn,{},10.8333333333,36.6666666667,Africa,,Awngi,183,False,False
+bade,,67,bad,bde,{},12.8333333333,10.5,Africa,,Bade,199,False,False
+bana,,109,ban,bcw,{},10.4166666667,13.5833333333,Africa,,Bana,209,False,False
+bathari,,4,bth,bhm,{},18.0,56.0,Eurasia,,Bathari,377,False,False
+bayso,,10,bys,bsw,{},6.25,37.75,Africa,,Bayso,402,False,False
+beja,,120,bej,bej,{},18.0,36.0,Africa,,Beja,235,False,True
+berber ayt seghrouchen middle atlas,,114,bse,tzm,{},33.3333333333,-4.66666666667,Africa,,Berber (Ayt Seghrouchen Middle Atlas),368,False,False
+berber chaouia,,114,bch,shy,{},35.0,7.0,Africa,,Berber (Chaouia),223,False,False
+berber figuig,,114,bfg,,{},32.5,-1.5,,,Berber (Figuig),244,False,False
+berber middle atlas,,114,bma,tzm,{},33.0,-5.0,Africa,,Berber (Middle Atlas),299,True,True
+berber mzab,,114,bmz,mzb,{},32.5,3.5,Africa,,Berber (Mzab),303,False,False
+berber rif,,114,brf,rif,{},34.5,-4.0,Africa,,Berber (Rif),351,False,False
+berber siwa,,114,bsi,siz,{},29.1666666667,25.5,Africa,,Berber (Siwa),370,False,False
+berber wargla,,114,bou,oua,{},31.9166666667,5.33333333333,Africa,,Berber (Wargla),332,False,False
+bidiya,,130,bid,bid,{},11.9166666667,18.75,Africa,,Bidiya,262,False,False
+bilin,,95,bln,byn,{},15.75,38.5,Africa,,Bilin,291,False,False
+bole,,67,blq,bol,{},11.3333333333,11.25,Africa,,Bole,292,False,False
+buduma,,109,bud,bdm,{},13.5,14.5,Africa,,Buduma,383,False,False
+burapabir,,109,bpa,bwr,{},10.5,12.25,Africa,,Bura-Pabir,334,False,False
+burji,,10,brj,bji,{},5.5,37.8333333333,Africa,,Burji,354,False,False
+burunge,,36,brn,bds,{},-5.33333333333,36.0,Africa,,Burunge,358,False,False
+chaha,,4,chh,sgw,{},8.112935,37.93267,Africa,,Chaha,440,False,False
+chaldean modern,,4,cld,cld,{},36.0,43.0,Eurasia,,Chaldean (Modern),467,False,False
+coptic,,210,cop,cop,{},26.0,32.0,Africa,,Coptic,493,False,False
+daba,,109,dab,"dbq, dkx",{},10.1666666667,13.75,Africa,,Daba,546,False,False
+dahalo,,226,dah,dal,{},-2.33333333333,40.5,Africa,,Dahalo,549,False,False
+dangaleat western,,130,dnw,daa,{},12.1666666667,18.3333333333,Africa,,Dangaléat (Western),608,False,False
+dhaasanac,,10,dha,dsh,{},4.66666666667,36.3333333333,Africa,,Dhaasanac,578,False,False
+dime,,2,dim,dim,{},6.16666666667,36.25,Africa,,Dime,589,False,False
+dizi,,234,diz,mdx,{},6.16666666667,36.5,Africa,,Dizi,593,False,False
+dullay gollango,,10,dug,gwd,{},5.5,37.25,Africa,,Dullay (Gollango),623,False,False
+gaanda,,109,gnd,gqa,{},10.3333333333,12.5833333333,Africa,,Ga'anda,762,False,False
+gamo,,267,gam,gmv,{},6.66666666667,37.25,Africa,,Gamo,708,False,False
+gidar,,109,gdr,gid,{},10.0,14.0,Africa,,Gidar,728,False,False
+gimira,,267,gim,bcq,{},7.0,35.75,Africa,,Gimira,742,False,False
+giziga,,109,giz,"gis, giz",{},10.3333333333,14.1666666667,Africa,,Giziga,745,False,False
+goemai,,67,goe,ank,{},8.66666666667,9.75,Africa,,Goemai,768,False,False
+gorowa,,36,gor,gow,{},-4.5,36.5,Africa,,Gorowa,775,False,False
+gude,,109,gud,gde,{},10.4166666667,13.4166666667,Africa,,Gude,799,False,False
+guduf,,109,gdf,gdf,{},11.2333333333,13.8,Africa,,Guduf,724,False,False
+hamer,,2,hmr,amf,{},5.0,36.5,Africa,,Hamer,857,False,False
+harari,,4,hrr,har,{},9.25,42.1666666667,Africa,,Harari,871,False,False
+harsusi,,4,hrs,hss,{},20.0,56.5,Eurasia,,Harsusi,872,False,False
+hausa,,67,hau,hau,{},12.0,7.0,Africa,,Hausa,828,True,True
+hdi,,109,hdi,xed,{},11.8666666667,13.7166666667,Africa,,Hdi,834,False,False
+hebrew modern,,4,heb,heb,{},31.5,34.8333333333,Eurasia,,Hebrew (Modern),835,True,True
+hebrew modern ashkenazic,,4,hba,heb,{},31.75,35.1666666667,Eurasia,,Hebrew (Modern Ashkenazic),832,False,False
+iraqw,,36,irq,irk,{},-4.0,35.5,Africa,,Iraqw,930,False,True
+jibbali,,4,jib,shv,{},17.5,55.0,Eurasia,,Jibbali,973,False,False
+kabyle,,114,kbl,kab,{},36.5,5.0,Africa,,Kabyle,1019,False,False
+kanakuru,,67,knk,kna,{},10.0,12.0,Africa,,Kanakuru,1141,False,False
+kefa,,2,kef,kbr,{},7.25,36.25,Africa,,Kefa,1033,False,False
+kemant,,95,kem,ahg,{},12.6666666667,37.4166666667,Africa,,Kemant,1037,False,False
+kera,,130,ker,ker,{},9.83333333333,15.0833333333,Africa,,Kera,1040,False,True
+kilba,,109,klb,hbb,{},10.3333333333,13.1666666667,Africa,,Kilba,1103,False,False
+koorete,,267,kjr,kqy,{},5.83333333333,37.8333333333,Africa,,Koorete,1088,False,False
+kotoko,,109,ktk,aal,{},11.3333333333,15.3333333333,Africa,,Kotoko,1215,False,False
+kullo,,267,kul,gmo,{},6.75,37.0833333333,Africa,,Kullo,1229,False,False
+kwami,,67,kwm,ksq,{},10.4166666667,11.0,Africa,,Kwami,1245,False,False
+lagwan,,109,lag,kot,{},11.5,14.8333333333,Africa,,Lagwan,1272,False,False
+lamang,,109,lmg,hia,{},11.25,13.5833333333,Africa,,Lamang,1326,False,False
+lame,,381,lam,lme,{},9.0,14.5,Africa,,Lamé,1277,False,False
+lele,,130,lel,lln,{},9.08333333333,15.5833333333,Africa,,Lele,1295,False,False
+maale,,267,mle,mdy,{},6.0,36.9166666667,Africa,,Maale,1495,False,False
+mada in cameroon,,109,mda,mxu,{},10.8333333333,14.1666666667,Africa,,Mada (in Cameroon),1417,False,False
+malgwa,,109,mlg,mfi,{},11.5,13.75,Africa,,Malgwa,1496,False,False
+maltese,,4,mlt,mlt,{},35.9166666667,14.4166666667,Eurasia,,Maltese,1501,False,False
+mandaic modern,,4,mma,mid,{},31.0,48.5,Eurasia,,Mandaic (Modern),1504,False,False
+margi,,109,mrg,mrt,{},11.0,13.0,Africa,,Margi,1562,False,False
+masa,,381,mas,mcn,{},10.5,15.5,Africa,,Masa,1385,False,False
+mbara,,109,mbr,mpk,{},11.0,15.4166666667,Africa,,Mbara,1400,False,False
+mbugu,,36,mbg,mhd,{},-4.33333333333,38.1666666667,Africa,,Mbugu,1395,False,False
+mehri,,4,meh,gdq,{},17.0,51.5,Eurasia,,Mehri,1434,False,False
+migama,,130,mig,mmy,{},12.1666666667,19.8333333333,Africa,,Migama,1462,False,False
+mina,,109,hna,hna,{},10.3333333333,13.8333333333,Africa,,Mina,859,False,False
+miya,,67,miy,mkf,{},10.9166666667,9.66666666667,Africa,,Miya,1471,False,False
+moca,,267,moc,moy,{},7.58333333333,35.5,Africa,,Moca,1534,False,False
+mofugudur,,109,mof,mif,{},10.5,14.0,Africa,,Mofu-Gudur,1536,False,False
+mokilko,,130,mko,moz,{},11.9166666667,18.0833333333,Africa,,Mokilko,1486,False,False
+muher,,4,muh,sgw,{},8.16666666667,38.1666666667,Africa,,Muher,1602,False,False
+mupun,,67,mup,sur,{},9.5,8.83333333333,Africa,,Mupun,1608,False,False
+musgu,,109,mgu,mug,{},10.8333333333,14.9166666667,Africa,,Musgu,1452,False,False
+neoaramaic amadiya,,4,naa,cld,{},37.0,43.0,Eurasia,,Neo-Aramaic (Amadiya),1649,False,False
+neoaramaic arbel jewish,,4,naj,aij,{},36.3833,44.0,Eurasia,,Neo-Aramaic (Arbel Jewish),1656,False,False
+neoaramaic assyrian,,4,nsy,aii,{},36.0,41.0,Eurasia,,Neo-Aramaic (Assyrian),1781,False,False
+neoaramaic persian azerbaijan,,4,nap,trg,{},38.0,47.0,Eurasia,,Neo-Aramaic (Persian Azerbaijan),1661,False,False
+ngizim,,67,ngz,ngi,{},12.0833333333,10.9166666667,Africa,,Ngizim,1715,False,False
+oromo boraana,,10,orb,gax,{},4.5,38.5,Africa,,Oromo (Boraana),1843,False,False
+oromo harar,,10,orh,hae,{},9.0,42.0,Africa,,Oromo (Harar),1847,True,True
+oromo waata,,10,orw,ssn,{},-3.33333333333,39.8333333333,Africa,,Oromo (Waata),1853,False,False
+oromo westcentral,,10,owc,gaz,{},9.0,37.0,Africa,,Oromo (West-Central),1862,False,False
+paa,,67,paa,pqa,{},11.0,9.25,Africa,,Pa'a,1865,False,False
+pero,,67,per,pip,{},9.58333333333,11.0,Africa,,Pero,1886,False,False
+podoko,,109,pod,pbi,{},11.0,14.0833333333,Africa,,Podoko,1920,False,False
+qafar,,10,qaf,aar,{},12.0,42.0,Africa,,Qafar,1962,False,False
+rendille,,10,ren,rel,{},2.0,37.5,Africa,,Rendille,1993,False,False
+ron,,67,ron,cla,{},9.0,8.75,Africa,,Ron,2014,False,False
+saho,,10,sao,ssy,{},14.75,39.75,Africa,,Saho,2044,False,False
+shinassha,,267,ssh,bwo,{},10.4166666667,36.1666666667,Africa,,Shinassha,2166,False,False
+sidaama,,498,sid,sid,{},6.66666666667,38.5,Africa,,Sidaama,2093,False,False
+soddo,,4,sod,gru,{},8.5,38.5,Africa,,Soddo,2138,False,False
+somali,,10,som,som,{},3.0,45.0,Africa,,Somali,2140,False,False
+soqotri,,4,soq,sqt,{},12.5,54.0,Africa,,Soqotri,2143,False,False
+tamashek,,114,tsk,taq,{},20.0,-2.0,Africa,,Tamashek,2367,False,False
+tangale,,67,tan,tan,{},9.75,11.3333333333,Africa,,Tangale,2210,False,False
+tashlhiyt,,114,tas,shi,{},31.0,-5.0,Africa,,Tashlhiyt,2214,False,False
+tera,,109,ter,ttr,{},11.0,11.8333333333,Africa,,Tera,2243,False,False
+tigre,,4,tgr,tig,{},16.5,38.5,Africa,,Tigré,2256,False,False
+tigre beni amer,,4,tbe,tig,{},15.5,38.0,Africa,,Tigré (Beni Amer),2222,False,False
+tigrinya,,4,tig,tir,{},14.5,38.5,Africa,,Tigrinya,2274,False,False
+tuareg ahaggar,,114,tug,thv,{},23.0,6.0,Africa,,Tuareg (Ahaggar),2387,False,False
+tuareg air,,114,tai,thv,{},19.0,9.0,Africa,,Tuareg (Air),2205,False,False
+tuareg ghat,,114,tgh,thv,{},25.0,10.1666666667,Africa,,Tuareg (Ghat),2250,False,False
+tumak,,130,tmk,tmc,{},9.5,17.3333333333,Africa,,Tumak,2302,False,False
+uldeme,,109,uld,udl,{},10.95,14.1166666667,Africa,,Uldeme,2424,False,False
+wolaytta,,267,wly,wal,{},6.83333333333,37.75,Africa,,Wolaytta,2502,False,False
+yemsa,,267,yms,jnj,{},7.83333333333,37.3333333333,Africa,,Yemsa,2602,False,False
+zayse,,267,zay,zay,{},5.91666666667,37.3333333333,Africa,,Zayse,2642,False,False
+zenaga,,114,zen,zen,{},17.3333333333,-16.0,Africa,,Zenaga,2645,False,False
