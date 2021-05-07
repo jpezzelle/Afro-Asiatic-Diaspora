@@ -47,6 +47,7 @@ afro1$my.col[afro1$macroarea == "Eurasia"]  = "blue"
 #bespeckle it
 points(afro1$latitude, afro$longitude, col =afro1$my.col, pch=12)
 
+#add labels to points
 text(afro1$latitude, afro$longitude, labels = afro$iso_codes, cex = 1.0, pos = 2)
 
 #make legend
